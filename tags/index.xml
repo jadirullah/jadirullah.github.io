@@ -1,41 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Jadir Blog</title>
+    <title>Tags on Jadirullah</title>
     <link>https://jadirullah.github.io/tags/</link>
-    <description>Recent content in Tags on Jadir Blog</description>
+    <description>Recent content in Tags on Jadirullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce.</copyright>
-    <lastBuildDate>Mon, 28 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jadirullah.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Development</title>
-      <link>https://jadirullah.github.io/tags/development/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      <title>Article</title>
+      <link>https://jadirullah.github.io/tags/article/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://jadirullah.github.io/tags/development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>https://jadirullah.github.io/tags/go/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Golang</title>
-      <link>https://jadirullah.github.io/tags/golang/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/golang/</guid>
+      <guid>https://jadirullah.github.io/tags/article/</guid>
       <description></description>
     </item>
     
@@ -45,42 +27,6 @@
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
       <guid>https://jadirullah.github.io/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markdown</title>
-      <link>https://jadirullah.github.io/tags/markdown/</link>
-      <pubDate>Wed, 17 Jul 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Templates</title>
-      <link>https://jadirullah.github.io/tags/templates/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Theme</title>
-      <link>https://jadirullah.github.io/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/theme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Themes</title>
-      <link>https://jadirullah.github.io/tags/themes/</link>
-      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
