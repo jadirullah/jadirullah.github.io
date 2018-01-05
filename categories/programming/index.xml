@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jadirullah</title>
-    <link>https://jadirullah.github.io/post/</link>
-    <description>Recent content in Posts on Jadirullah</description>
+    <title>Programming on Jadirullah</title>
+    <link>https://jadirullah.github.io/categories/programming/</link>
+    <description>Recent content in Programming on Jadirullah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jadirullah.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jadirullah.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Haloo,</title>
-      <link>https://jadirullah.github.io/post/first-blog/</link>
-      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jadirullah.github.io/post/first-blog/</guid>
-      <description>first nge-blogs nii :D Halo. Perkenalkan nama saya jadir.
-Saya baru coba-coba manfaatin fitur dari github pages dan Hugo,
-dan akhirnya,
-Taraaaaa&amp;hellip;.
-Bisa Nge-Blog again ..
- Semangatsss  :D</description>
-    </item>
     
     <item>
       <title>Mengenal Golang,</title>
